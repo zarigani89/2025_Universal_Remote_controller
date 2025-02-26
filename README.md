@@ -1,1 +1,3 @@
 # 2025_Universal_Remote_controller
+2025/1/23に発表したUniversalRemotecontrollerのプログラムです  
+ライブラリmasterごと入ってるので重たいです　ごめんなさい
